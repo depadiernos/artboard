@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name kbd)(type Legacy)(uri ${KIPRJMOD}/kbd/kicad-symbols/kbd.lib)(options "")(descr ""))
-  (lib (name corne-chocolate-cache)(type Legacy)(uri /home/dennis/Projects/crkbd/corne-chocolate/pcb/corne-chocolate-cache.lib)(options "")(descr ""))
+  (lib (name artboard-rescue)(type Legacy)(uri ${KIPRJMOD}/artboard-rescue.lib)(options "")(descr ""))
+  (lib (name artboard)(type Legacy)(uri ${KIPRJMOD}/artboard/kicad-symbols/artboard.lib)(options "")(descr ""))
 )
