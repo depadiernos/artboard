@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name artboard)(type KiCad)(uri ${KISYSMOD}/artboard.pretty)(options "")(descr ""))
+)
