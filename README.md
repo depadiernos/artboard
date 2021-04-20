@@ -16,7 +16,7 @@ We also work to have our hardware supported by well known open source keyboard f
 ## Who
 
 I'm a software engineer by trade. I hurt my right elbow (tennis elbow) and have been looking for a one-handed keyboard so I can rest my right arm so it can hopefully heal faster.
-y
+
 
 ## Licensing
 
