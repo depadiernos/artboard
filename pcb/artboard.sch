@@ -289,7 +289,7 @@ Wire Wire Line
 Wire Wire Line
 	1200 2835 1650 2835
 $Comp
-L artboard-rescue:SW_PUSH-kbd SW7
+L artboard:SW_PUSH SW7
 U 1 1 5A5E2D6E
 P 2390 1490
 F 0 "SW7" H 2540 1600 50  0000 C CNN
@@ -300,7 +300,7 @@ F 3 "" H 2390 1490 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L artboard-rescue:SW_PUSH-kbd SW8
+L artboard:SW_PUSH SW8
 U 1 1 5A5E2D26
 P 3090 1490
 F 0 "SW8" H 3240 1600 50  0000 C CNN
@@ -311,7 +311,7 @@ F 3 "" H 3090 1490 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L artboard-rescue:SW_PUSH-kbd SW1
+L artboard:SW_PUSH SW1
 U 1 1 5A5E2B19
 P 990 1100
 F 0 "SW1" H 1140 1210 50  0000 C CNN
@@ -322,7 +322,7 @@ F 3 "" H 990 1100 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L artboard-rescue:SW_PUSH-kbd SW4
+L artboard:SW_PUSH SW4
 U 1 1 5A5E2908
 P 3090 1100
 F 0 "SW4" H 3240 1210 50  0000 C CNN
@@ -333,7 +333,7 @@ F 3 "" H 3090 1100 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L artboard-rescue:SW_PUSH-kbd SW3
+L artboard:SW_PUSH SW3
 U 1 1 5A5E27F9
 P 2390 1100
 F 0 "SW3" H 2540 1210 50  0000 C CNN
@@ -385,7 +385,7 @@ F 3 "" H 5165 1815 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L artboard-rescue:SW_PUSH-kbd SW6
+L artboard:SW_PUSH SW6
 U 1 1 5A5E295E
 P 1690 1490
 F 0 "SW6" H 1840 1600 50  0000 C CNN
@@ -396,7 +396,7 @@ F 3 "" H 1690 1490 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L artboard-rescue:SW_PUSH-kbd SW5
+L artboard:SW_PUSH SW5
 U 1 1 5A5E2933
 P 990 1490
 F 0 "SW5" H 1140 1600 50  0000 C CNN
@@ -407,7 +407,7 @@ F 3 "" H 990 1490 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L artboard-rescue:SW_PUSH-kbd SW2
+L artboard:SW_PUSH SW2
 U 1 1 5A5E2699
 P 1690 1100
 F 0 "SW2" H 1840 1210 50  0000 C CNN
