@@ -12,13 +12,11 @@ A small keyboard hardware design that can be built free of charge for non-commer
 
 We also work to have our hardware supported by well known open source keyboard firmware projects to make them easier to setup and use.
 
-## Why
-
-There are few keyboard options for those with hand disabilities. The few commercial keyboards 'designed' to address hand disabilities are incredibly expensive and aren't well designed if you consider risk of long term RSI related problems. This project was founded to address these systemic issues.
 
 ## Who
 
-Just a human who has had their left hand immobilized for 6 weeks and their right hand injured badly enough to cause typing problems on traditional keyboards for 2 weeks.
+I'm a software engineer by trade. I hurt my right elbow (tennis elbow) and have been looking for a one-handed keyboard so I can rest my right arm so it can hopefully heal faster.
+y
 
 ## Licensing
 
